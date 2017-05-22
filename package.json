@@ -1,0 +1,21 @@
+{
+  "name": "testeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "6.24.1",
+    "babel-core": "6.24.1",
+    "babel-plugin-add-module-exports": "0.2.1",
+    "babel-preset-es2015": "6.24.1",
+    "jsontoxml": "0.0.11",
+    "lodash": "4.17.4",
+    "nodemon": "1.11.0",
+    "query-string": "^4.3.4"
+  }
+}
